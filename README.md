@@ -16,7 +16,7 @@ Software engineer studying **Computer Science & IT/Web Science** at RPI (3.88 GP
 ### Currently
 
 - 📍 Troy, NY
-- 📚 Taking Foundations of CS, Computer Architecture & OS, Intro to HCI
+- 🎄 Solving Advent of Code in Python and C++ since 2023
 - 🔎 Looking for **Summer 2027 internships and co-ops**
 
 ### Links
