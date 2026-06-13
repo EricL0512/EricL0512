@@ -1,6 +1,6 @@
 ## Hey, I'm Eric 👋
 
-Software engineer studying **Computer Science & IT/Web Science** at RPI (3.88 GPA). I build software for public systems — transit planning, education platforms, health records.
+Software engineer studying **Computer Science & IT/Web Science** at RPI (3.90 GPA). I build software for public systems — transit planning, education platforms, health records.
 
 🏆 **1st Place** — HV Open Data Hackathon 2026  
 🎓 Brooklyn Tech alum (Software Engineering, Top 5%)  
@@ -15,7 +15,7 @@ Software engineer studying **Computer Science & IT/Web Science** at RPI (3.88 GP
 
 ### Currently
 
-- 📍 Troy, NY
+- 📍 Brooklyn, NY
 - 🎄 Solving Advent of Code in Python and C++ since 2023
 - 🔎 Looking for **Summer 2027 internships and co-ops**
 
